@@ -61,8 +61,5 @@ JWT_SECRET=tu_clave_secreta_super_segura
 │   ├── html/            # Archivos de maquetación estáticos.
 │   ├── img/             # Activos visuales (favicon.png).
 │   └── js/
-│       ├── components/  # Manejadores de UI dinámicos (uiHandlers.js).
-│       ├── frontControllers/  # Controladores de lógica frontend.
-│       ├── services/    # Cliente API (apiService.js).
-│       └── utils/  # Lógica de sesión (authHelper.js).
+│       ├── tests/  # Scripts necesarios para crear el frontend de los tests.
 ├── test-samples/ #samples de prueba para subir.
